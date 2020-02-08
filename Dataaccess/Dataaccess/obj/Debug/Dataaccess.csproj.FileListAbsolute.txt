@@ -1,0 +1,11 @@
+C:\Users\BLTuser.BLT036\source\repos\ado.net\Dataaccess\Dataaccess\obj\Debug\Dataaccess.csprojAssemblyReference.cache
+C:\Users\BLTuser.BLT036\source\repos\ado.net\Dataaccess\Dataaccess\obj\Debug\Dataaccess.Form1.resources
+C:\Users\BLTuser.BLT036\source\repos\ado.net\Dataaccess\Dataaccess\obj\Debug\Dataaccess.Properties.Resources.resources
+C:\Users\BLTuser.BLT036\source\repos\ado.net\Dataaccess\Dataaccess\obj\Debug\Dataaccess.csproj.GenerateResource.cache
+C:\Users\BLTuser.BLT036\source\repos\ado.net\Dataaccess\Dataaccess\obj\Debug\Dataaccess.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT036\source\repos\ado.net\Dataaccess\Dataaccess\bin\Debug\Dataaccess.exe.config
+C:\Users\BLTuser.BLT036\source\repos\ado.net\Dataaccess\Dataaccess\bin\Debug\Dataaccess.exe
+C:\Users\BLTuser.BLT036\source\repos\ado.net\Dataaccess\Dataaccess\bin\Debug\Dataaccess.pdb
+C:\Users\BLTuser.BLT036\source\repos\ado.net\Dataaccess\Dataaccess\obj\Debug\Dataaccess.exe
+C:\Users\BLTuser.BLT036\source\repos\ado.net\Dataaccess\Dataaccess\obj\Debug\Dataaccess.pdb
+C:\Users\BLTuser.BLT036\source\repos\ado.net\Dataaccess\Dataaccess\obj\Debug\NewDataAcess.Form1.resources

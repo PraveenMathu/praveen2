@@ -1,0 +1,7 @@
+c:\users\bltuser.blt036\source\repos\boxing and unboxing\boxing and unboxing\obj\Debug\boxing and unboxing.csprojResolveAssemblyReference.cache
+c:\users\bltuser.blt036\source\repos\boxing and unboxing\boxing and unboxing\obj\Debug\boxing and unboxing.csproj.CoreCompileInputs.cache
+c:\users\bltuser.blt036\source\repos\boxing and unboxing\boxing and unboxing\bin\Debug\boxing and unboxing.exe.config
+c:\users\bltuser.blt036\source\repos\boxing and unboxing\boxing and unboxing\bin\Debug\boxing and unboxing.exe
+c:\users\bltuser.blt036\source\repos\boxing and unboxing\boxing and unboxing\bin\Debug\boxing and unboxing.pdb
+c:\users\bltuser.blt036\source\repos\boxing and unboxing\boxing and unboxing\obj\Debug\boxing and unboxing.exe
+c:\users\bltuser.blt036\source\repos\boxing and unboxing\boxing and unboxing\obj\Debug\boxing and unboxing.pdb
